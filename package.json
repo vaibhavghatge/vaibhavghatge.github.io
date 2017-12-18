@@ -1,0 +1,21 @@
+{
+  "name": "vaibhav",
+  "version": "1.0.0",
+  "description": "demochat",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "vaibhav",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^10.0.4",
+    "watchify": "^3.9.0"
+  },
+  "dependencies": {
+    "getusermedia": "^2.0.1",
+    "node-autostart": "^3.0.3",
+    "npm-git-install": "^0.3.0",
+    "simple-peer": "^8.2.0"
+  }
+}
